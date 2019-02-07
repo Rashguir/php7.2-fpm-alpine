@@ -1,6 +1,6 @@
 FROM php:7.2.14-fpm-alpine3.9
 
-MAINTAINER Nicolas Sicard <nicolas.sicard@mandarine.academy>
+MAINTAINER Nicolas Sicard <rashguir@gmail.com>
 
 RUN apk update -q; \
     apk add -q --no-cache \
